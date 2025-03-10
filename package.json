@@ -1,6 +1,7 @@
 {
   "name": "gambit-interface",
   "version": "0.1.65",
+  "homepage": "https://doritodog.github.io/DEX-web3-project",
   "private": true,
   "type": "module",
   "dependencies": {
@@ -88,7 +89,9 @@
   "scripts": {
     "start": "vite",
     "build": "vite build",
-    "serve": "vite preview"
+    "serve": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
