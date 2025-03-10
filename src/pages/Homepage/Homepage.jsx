@@ -13,15 +13,15 @@ const Homepage = () => {
             {/* BEGIN: Content Top Main */}
             <div className="row">
               <div className="col-12 col-sm-9 col-md-8 col-xl-7">
-                <h1 className="animate a_01">
-                  <span className="animate a_02">UltraX</span> is Decentralized Perpetual{" "}
-                  <span className="animate a_03">Exchange</span>
+                <h1 className="a_01">
+                  <span className="a_02">UltraX</span> is Decentralized Perpetual{" "}
+                  <span className="a_03">Exchange</span>
                 </h1>
-                <p className="animate a_04">
+                <p className="a_04">
                   Trade BTC, ETH, FTM, OP and other top cryptocurrencies with up to 100x leverage directly from your
                   wallet.
                 </p>
-                <div className="group-btn animate a_05">
+                <div className="group-btn a_05">
                   <span
                     className="btn-a btn-blue"
                     style={{ cursor: "pointer", userSelect: "none" }}
@@ -40,7 +40,7 @@ const Homepage = () => {
           <div className="content-width">
             <div className="information">
               <div className="row">
-                <div className="col-12 col-sm-6 col-xl-3 animate a_06">
+                <div className="col-12 col-sm-6 col-xl-3 a_06">
                   <article>
                     <img src="images/icon-01.png" alt="Trading volume" />
                     <h6>
@@ -49,7 +49,7 @@ const Homepage = () => {
                     </h6>
                   </article>
                 </div>
-                <div className="col-12 col-sm-6 col-xl-3 animate a_07">
+                <div className="col-12 col-sm-6 col-xl-3 a_07">
                   <article>
                     <img src="images/icon-02.png" alt="Total fees" />
                     <h6>
@@ -58,7 +58,7 @@ const Homepage = () => {
                     </h6>
                   </article>
                 </div>
-                <div className="col-12 col-sm-6 col-xl-3 animate a_08">
+                <div className="col-12 col-sm-6 col-xl-3 a_08">
                   <article>
                     <img src="images/icon-03.png" alt="Open interest" />
                     <h6>
@@ -67,7 +67,7 @@ const Homepage = () => {
                     </h6>
                   </article>
                 </div>
-                <div className="col-12 col-sm-6 col-xl-3 animate a_09">
+                <div className="col-12 col-sm-6 col-xl-3 a_09">
                   <article>
                     <img src="images/icon-04.png" alt="Total user" />
                     <h6>
@@ -87,7 +87,7 @@ const Homepage = () => {
         <div id="features">
           <div className="container">
             <div className="row">
-              <div className="col-12 col-md-4 animate a_08 d-flex">
+              <div className="col-12 col-md-4 a_08 d-flex">
                 <article>
                   <div className="row">
                     <div className="col-12 col-lg-8 col-xl-7 order-a">
@@ -102,7 +102,7 @@ const Homepage = () => {
                   </div>
                 </article>
               </div>
-              <div className="col-12 col-md-4 animate a_09 d-flex">
+              <div className="col-12 col-md-4 a_09 d-flex">
                 <article>
                   <div className="row">
                     <div className="col-12 col-lg-8 col-xl-7 order-a">
@@ -118,7 +118,7 @@ const Homepage = () => {
                   </div>
                 </article>
               </div>
-              <div className="col-12 col-md-4 animate a_10 d-flex">
+              <div className="col-12 col-md-4 a_10 d-flex">
                 <article>
                   <div className="row">
                     <div className="col-12 col-lg-8 col-xl-7 order-a">

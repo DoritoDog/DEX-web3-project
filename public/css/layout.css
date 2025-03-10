@@ -670,8 +670,6 @@ footer ul li img:hover {
   height: 974px;
   opacity: 1;
   z-index: 0;
-  -webkit-animation: flashAnim linear 4s infinite;
-  animation: flashAnim linear 4s infinite;
 }
 
 .container {
